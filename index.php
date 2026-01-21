@@ -25,5 +25,5 @@ $page = $_GET['page'] ?? 'home';
 $id = $_GET['id'] ?? null;
 $name = $_GET['name'] ?? null;
 
-// En este punto cargaremos las vistas basadas en $page
+// Carga de la vista dinámica solicitada
 include ROOT_PATH . '/views/layout.php';

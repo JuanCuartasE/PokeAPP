@@ -1,6 +1,6 @@
 # PokéApp 
 
-![Logo PokéApp](assets/logo.png) <!-- Colocar aquí tu logo si lo tienes -->
+![Logo PokéApp](assets/logo.png)
 
 Una aplicación web moderna y robusta desarrollada en **PHP 8.4 Vanilla** (sin frameworks) para listar, buscar, filtrar y gestionar Pokémon favoritos utilizando la **PokeAPI**.
 
@@ -19,15 +19,15 @@ Una aplicación web moderna y robusta desarrollada en **PHP 8.4 Vanilla** (sin f
 
 ### 1. Inicio y Listado Paginado
 ![Dashboard](screenshots/image.png)
-*(Imagen del dashboard principal con la rejilla de Pokémon y filtros)*
+Vista principal con cuadrícula de Pokémon y filtros de búsqueda.
 
 ### 2. Detalle de Pokémon
 ![Detalle](screenshots/image2.png)
-*(Vista técnica del Pokémon con sus stats en barras de progreso y habilidades)*
+Ficha técnica informativa con estadísticas y habilidades.
 
 ### 3. Comparador Side-by-Side
 ![Comparador](screenshots/image3.png)
-*(Comparativa visual de estadísticas entre dos Pokémon)*
+Herramienta de comparación directa de estadísticas base.
 
 ---
 
@@ -57,7 +57,7 @@ Una aplicación web moderna y robusta desarrollada en **PHP 8.4 Vanilla** (sin f
    ```bash
    php -S localhost:8000
    ```
-   *Accede a [http://localhost:8000](http://localhost:8000) en tu navegador.*
+   Acceso mediante [http://localhost:8000](http://localhost:8000).
 
 ---
 
