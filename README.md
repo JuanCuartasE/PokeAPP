@@ -1,4 +1,4 @@
-# PokéApp - Prueba Técnica
+# PokéApp 
 
 ![Logo PokéApp](assets/logo.png) <!-- Colocar aquí tu logo si lo tienes -->
 
